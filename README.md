@@ -31,12 +31,13 @@ The repository is organized as follows:
 
 To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/MTalhaZafar32/Automated-Data-Entry-Form-using-Excel-VBA-and-Power-Query.git
+git clone
+   ```bash   
+    https://github.com/MTalhaZafar32/Automated-Data-Entry-Form-using-Excel-VBA-and-Power-Query.git
    ```
-2. Open the Excel workbook and enable macros if prompted.
-3. Explore `UserForm1` for file selection and `PowerQueryTransformations` for data transformation data.
-4. Modify and extend the project according to your requirements.
+3. Open the Excel workbook and enable macros if prompted.
+4. Explore `UserForm1` for file selection and `PowerQueryTransformations` for data transformation data.
+5. Modify and extend the project according to your requirements.
 
 ## Usage
 
